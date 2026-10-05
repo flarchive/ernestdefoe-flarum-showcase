@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ernestdefoe/flarum-showcase.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/flarum-showcase) or the [upstream repository](https://github.com/ernestdefoe/flarum-showcase).
 
-**0** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/ernestdefoe-flarum-showcase/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^2.0`
+**4** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/ernestdefoe-flarum-showcase/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-05-22 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-flarum-showcase/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-05-24 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-flarum-showcase/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-05-24 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-flarum-showcase/tree/archive/v2.0.2) |
+| `2.0.3` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-flarum-showcase/tree/archive/v2.0.3) |
 
 Catalog entry: [packages/ernestdefoe-flarum-showcase.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-flarum-showcase.json)
 
